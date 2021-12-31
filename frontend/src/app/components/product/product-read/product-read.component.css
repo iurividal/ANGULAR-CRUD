@@ -1,0 +1,15 @@
+table{
+    width: 100%;
+}
+
+i{
+    padding: 0.5rem;
+}
+
+i.edit{
+    color:blueviolet ;
+}
+
+i.delete{
+    color: red;
+}

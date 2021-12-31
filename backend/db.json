@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta 2",
+      "price": "9.89"
+    },
+    {
+      "id": 2,
+      "name": "Notbook Mac Pro",
+      "price": "15000.89"
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20",
+      "price": "3100.89"
+    },
+    {
+      "name": "Camisa Preta",
+      "price": "115.78",
+      "id": 7
+    },
+    {
+      "name": "Teclado Gamer",
+      "price": "546.44",
+      "id": 8
+    }
+  ]
+}
